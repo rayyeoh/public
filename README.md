@@ -1,1 +1,1 @@
-Quick Prototyping. For illustration and educational purposes only.
+Welcome to my repo! This repo serves to provide fast-prototyping for illustration purposes only. I hope you find the examples useful ![image](https://github.com/rayyeoh/public/assets/57467750/58b19a04-9475-4525-897c-b1e5518528bd)
